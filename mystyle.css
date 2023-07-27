@@ -1,0 +1,38 @@
+input{
+    width:100px;
+    height:100px;
+    font-size:75px;
+    border-radius:10px;
+    margin:10px;
+    background-color:#000;
+    color:#fff;
+    border-style:none;
+    border-color:#fff;
+    text-align:'center';
+}
+
+#myform{
+    margin-left:20px;
+    margin-right:20px;
+   
+    /*margin-left:100px;
+    margin-right:100px;*/
+    width: 550px;
+    background-color:lightgray;
+    border-radius:20px;
+}
+
+h1{
+    text-align:center;
+    font-size:50px;
+    /* margin-right:100px;*/
+    /*margin-top:200px;*/
+    border-radius: 20px;
+    background-color: #807dac;
+}
+
+body{
+    background-image: url('Calc-backimg.png');
+    background-size: cover;
+    background-image: linear gradient(to bottom right,rgb(175,168,168),rgb(79,148,113));
+}
